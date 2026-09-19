@@ -1,6 +1,6 @@
 # OverTheWire Bandit Walkthrough
 
-A command-focused walkthrough for Bandit Levels 0–33.
+A walkthrough for Bandit Levels 0–33.
 
 ## Contents
 
