@@ -1,0 +1,7 @@
+# Secrets / credentials
+*.key
+*.pem
+*.sshkey
+.env
+.env.*
+bandit17_key
