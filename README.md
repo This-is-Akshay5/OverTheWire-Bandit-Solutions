@@ -10,7 +10,7 @@ Each level has its own `solution.md` containing:
 
 ## Security note
 
-This repository intentionally does not include the actual Bandit passwords or private SSH keys.
+Passwords are intentionally omitted to keep this repository focused on learning and methodology.
 
 ## Environment
 
